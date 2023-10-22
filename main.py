@@ -1,4 +1,3 @@
-from tkinter import *
 import tkinter as tk
 from main_menu import main_menu
 
